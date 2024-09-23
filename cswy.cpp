@@ -110,11 +110,10 @@
 //
 //
 		//水仙花数
-int main()
-{
+		{
 
 			
-				int n, num_1, num_2, num_3, num_4, num_5,i, j, k, l;
+				int n, num_1, num_2, num_3, num_4, num_5, i, j, k, l;
 				printf("到__位数(n>=3)");
 				scanf("%d", &n);
 				for(k=3;k<=n;k++)
@@ -124,7 +123,7 @@ int main()
 						num_2 * 10;
 					}
 
-					i = 100;
+
 
 
 
@@ -140,7 +139,7 @@ int main()
 					}
 				}
 					
-}
+		}
 //
 //			
 //
@@ -1538,30 +1537,27 @@ int main()
 //
 //
 //
-//	//结构体
-//	{
-//		//结构体的初始化
-//		{
-//			//打印结构体信息
-//			
-//			struct student Stu = { 18,"张三",87, "男"};
-//			//.为结构成员访问操作符
-//
-//
-//			printf("1:年龄是%d  名字是%s  分数是%lf  性别是%s\n", Stu.age_1, Stu.name_1, Stu.score, Stu.sex);
-//
-//			//->操作符
-//			struct student* STU = &Stu;
-//			printf("2:age=%d name=%s score=%lf sex=%s\n", STU->age_1,STU->name_1,STU->score,STU->sex);
-//			printf("3:age=%d name=%s score=%lf sex=%s\n", (*STU).age_1, (*STU).name_1, (*STU).score, (*STU).sex);
-//
-//		};
-//
-//		
-//	}
-//
-//
-//
+	////结构体
+	//{
+	//	//结构体的初始化
+	//	{
+	//		//打印结构体信息
+	//		
+	//		struct student Stu = { 18,"张三",87, "男"};
+	//		//.为结构成员访问操作符
+
+
+	//		printf("1:年龄是%d  名字是%s  分数是%lf  性别是%s\n", Stu.age_1, Stu.name_1, Stu.score, Stu.sex);
+
+	//		//->操作符
+	//		struct student* STU = &Stu;
+	//		printf("2:age=%d name=%s score=%lf sex=%s\n", STU->age_1,STU->name_1,STU->score,STU->sex);
+	//		printf("3:age=%d name=%s score=%lf sex=%s\n", (*STU).age_1, (*STU).name_1, (*STU).score, (*STU).sex);
+
+	//	};
+
+	//	
+	//}
 //
 //
 //
@@ -1594,8 +1590,11 @@ int main()
 //
 //
 //
-//	return 0;
-//}
+//
+//
+//
+	return 0;
+}
 //
 
 

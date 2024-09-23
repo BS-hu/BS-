@@ -1,0 +1,6 @@
+﻿  cswy.cpp
+C:\Users\BS\source\repos\again\again\cswy.cpp(124,13): warning C4552: ”*“: 未使用表达式结果
+C:\Users\BS\source\repos\again\again\cswy.cpp(117,40): warning C4101: “num_5”: 未引用的局部变量
+C:\Users\BS\source\repos\again\again\cswy.cpp(117,55): warning C4101: “l”: 未引用的局部变量
+C:\Users\BS\source\repos\again\again\cswy.cpp(117,49): warning C4101: “j”: 未引用的局部变量
+  again.vcxproj -> C:\Users\BS\source\repos\again\x64\Debug\again.exe
